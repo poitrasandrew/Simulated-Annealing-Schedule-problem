@@ -1,0 +1,61 @@
+Course Name: CS 101 A
+Instructor:  Bingham
+Room:        Haag 301
+Time:        12 PM
+
+Course Name: CS 101 B
+Instructor:  Hare
+Room:        Bloch 0009
+Time:        4 PM
+
+Course Name: CS 201 A
+Instructor:  Kuhail
+Room:        Flarsheim 310
+Time:        2 PM
+
+Course Name: CS 201 B
+Instructor:  Staff
+Room:        Haag 301
+Time:        10 AM
+
+Course Name: CS 191 A
+Instructor:  Rao
+Room:        Royall 204
+Time:        10 AM
+
+Course Name: CS 191 B
+Instructor:  Rao
+Room:        Bloch 0009
+Time:        2 PM
+
+Course Name: CS 291 B
+Instructor:  Staff
+Room:        Katz 209
+Time:        2 PM
+
+Course Name: CS 291 A
+Instructor:  Staff
+Room:        Flarsheim 310
+Time:        12 PM
+
+Course Name: CS 303
+Instructor:  Kuhail
+Room:        Katz 209
+Time:        4 PM
+
+Course Name: CS 341
+Instructor:  Bingham
+Room:        Royall 204
+Time:        4 PM
+
+Course Name: CS 449
+Instructor:  Rao
+Room:        Haag 301
+Time:        4 PM
+
+Course Name: CS 461
+Instructor:  Hare
+Room:        Bloch 0009
+Time:        3 PM
+
+Fitness Score of Schedule: 199
